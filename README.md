@@ -1,17 +1,6 @@
-# user
+<b>Flutter Random User Information Project<b>
+This Flutter project fetches user information from the RandomUser.me API and displays it in a user-friendly format. It serves as a simple example of integrating API calls in a Flutter app.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+Features:
+Fetches random user information from the API.
+Displays user details, including name, profile picture, email, and location.
