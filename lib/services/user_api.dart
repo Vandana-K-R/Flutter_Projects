@@ -6,7 +6,7 @@ class UserApi {
   static Future<List<User>> fetchUsers() async {
     try {
       var response =
-          await http.get(Uri.parse('https://randomuser.me/api/?results=50'));
+          await http.get(Uri.parse('https://randomuser.me/api/?results=10'));
 
       if (response.statusCode == 200) {
         var json = jsonDecode(response.body);

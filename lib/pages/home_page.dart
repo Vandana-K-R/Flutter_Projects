@@ -16,7 +16,6 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     fetchUsers();
-    print(users);
   }
 
   Future<void> fetchUsers() async {
