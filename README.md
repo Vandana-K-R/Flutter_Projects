@@ -1,3 +1,7 @@
+
+
+https://github.com/Vandana-K-R/Flutter_Projects/assets/151176464/b0a16e2f-0012-415d-9ed0-cdabd1ee7beb
+
 <b>Flutter Random User Information Project<b><br>
 This Flutter project fetches user information from the RandomUser.me API and displays it in a user-friendly format. It serves as a simple example of integrating API calls in a Flutter app.<br>
 
